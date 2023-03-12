@@ -4,8 +4,8 @@
 
 ### `Contacts`
 
-* Tel: 111111111
-* e-mail:	olenaka@gmail.com
+* Tel: 694995325
+* e-mail:	olenakulkova@gmail.com
 * LinkedIn: olena-tsaplan
 * GitHub: tsaplan
 
@@ -69,9 +69,9 @@ __National Lviv Polytechnic University__ System analyst of the computer systems 
 Course Seqiurity testing on [software-testing.ru](software-testing.ru)
 
 ### Work Experince
-* __Destiny Software__
-* __AB System__
-* __Usoft__
+* __Destiny Software__ from 2019
+* __AB System__ 2015-2019
+* __Usoft__ 2006-2009
 
 ### Language
 * Polish (Intermediate)
