@@ -4,8 +4,8 @@
 
 ### `Contacts`
 
-* Tel: 1111111
-* e-mail:	olena11111@gmail.com
+* Tel: 111111111
+* e-mail:	olenaka@gmail.com
 * LinkedIn: olena-tsaplan
 * GitHub: tsaplan
 
@@ -51,8 +51,22 @@ __Control version__
    * SVN,
    * Git
 
+### `Code example`
+
+```
+def check_is_selected(class_name):
+    try:
+        driver.find_element(By.CLASS_NAME,class_name)
+    except NoSuchElementException:
+        return False
+    return True
+```
+
+
 ### `Education`
 __National Lviv Polytechnic University__ System analyst of the computer systems and networks, master
+
+Course Seqiurity testing on [software-testing.ru](software-testing.ru)
 
 ### Work Experince
 * __Destiny Software__
